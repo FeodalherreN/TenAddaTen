@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.6.5/47d6744474ff276a8f92e92d22d7c956f5c832f0/gdx-backend-android-1.6.5.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="47d6744474ff276a8f92e92d22d7c956f5c832f0">
+        <dex dex="/home/markus/Git/TenAddaTen/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.6.5-4be231584b9683978cfd51a925b6d2bb849a45aa.jar" />
+    </item>
+    <item
+        jar="/home/markus/Git/TenAddaTen/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0f0c260a789afa325310dff0a52572f288c307fb">
+        <dex dex="/home/markus/Git/TenAddaTen/android/build/intermediates/pre-dexed/debug/core-1.0-3421b39e58a892dceccc5af5c0dfaed722f5cdd4.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.6.5/d81b49d6bc9aa29518fcaa7db9474fe7405fa324/gdx-box2d-1.6.5.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d81b49d6bc9aa29518fcaa7db9474fe7405fa324">
+        <dex dex="/home/markus/Git/TenAddaTen/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.6.5-cf38076f3e8c500e058eceadffacef5c4d2c6fc6.jar" />
+    </item>
+    <item
+        jar="/home/markus/Git/TenAddaTen/kryonet-2.21-all/kryonet-2.21-all.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d906a8f689f340b39a7f78bf9b4474aa819d7391">
+        <dex dex="/home/markus/Git/TenAddaTen/android/build/intermediates/pre-dexed/release/kryonet-2.21-all-6010c93f91235c87d322e3a8b4931e00416fcdcd.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.5/b56ebcc34d39c4bb0a828c5ed04f46a04314bb4d/gdx-1.6.5.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b56ebcc34d39c4bb0a828c5ed04f46a04314bb4d">
+        <dex dex="/home/markus/Git/TenAddaTen/android/build/intermediates/pre-dexed/debug/gdx-1.6.5-e854184ce1f7169e1fc45617b64c870c7fe5eb2f.jar" />
+    </item>
+
+</items>
